@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("phjompr")
+st.title("Philippe Loranchet")
 st.title("Style Showcase")
 
 # Header styles
